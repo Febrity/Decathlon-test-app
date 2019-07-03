@@ -1,1 +1,1 @@
-# Decathlon-test-app
+# RestTemplate-test-app
